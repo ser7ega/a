@@ -1,0 +1,161 @@
+#EXTM3U  
+#EXTINF:0,Первый HD
+http://s06.iptvx.tv/pervyj-hd/video.m3u8?token=11b197c1
+#EXTINF:0, Россия 1 HD
+http://s06.iptvx.tv/rossija-hd/video.m3u8?token=11b197c1
+#EXTINF:0,НТВ HD
+http://s06.iptvx.tv/ntv-hd/video.m3u8?token=11b197c1
+#EXTINF:0,РЕН ТВ HD
+http://s06.iptvx.tv:8090/s/11b197c1/ren-tv-hd.m3u8
+#EXTINF:0,Звезда HD
+http://s06.iptvx.tv/zvezda-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Звезда Плюс
+http://s06.iptvx.tv/zvezda-plus/video.m3u8?token=11b197c1
+#EXTINF:0,Телеканал 360 HD
+http://s06.iptvx.tv/telekanal-360-hd/video.m3u8?token=11b197c1
+#EXTINF:0, ТВЦ
+http://s06.iptvx.tv/tvc/video.m3u8?token=11b197c1
+#EXTINF:0, Известия HD
+http://s06.iptvx.tv/izvestija-hd/video.m3u8?token=11b197c1
+#EXTINF:0, Мир HD
+http://s06.iptvx.tv/mir-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Пятница HD
+http://s06.iptvx.tv/piatnica-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Суббота HD
+http://s06.iptvx.tv/super-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Россия 24
+http://s06.iptvx.tv/rossija24/video.m3u8?token=11b197c1
+#EXTINF:0, Красная линия
+http://s06.iptvx.tv/krasnaja-linija/video.m3u8?token=11b197c1
+#EXTINF:0,ТВ3 HD
+http://s06.iptvx.tv/tv3-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Че
+http://s06.iptvx.tv/4e/video.m3u8?token=11b197c1
+#EXTINF:0,ТНТ HD
+http://s06.iptvx.tv/tnt-hd/video.m3u8?token=11b197c1
+#EXTINF:0,СТС HD
+http://s06.iptvx.tv/ctc-hd/video.m3u8?token=11b197c1
+#EXTINF:0, 5 канал
+http://s06.iptvx.tv/5kanal/video.m3u8?token=11b197c1
+#EXTINF:0, Мир 24 HD
+http://s06.iptvx.tv/mir-24-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Наш Кинопоказ HD
+http://s06.iptvx.tv/nash-kinopokaz-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Наше крутое HD
+http://s06.iptvx.tv:8090/s/11b197c1/nash-detektiv-hd.m3u8
+#EXTINF:0, Любимое HD
+http://s06.iptvx.tv/nashe-lubimoe-hd/video.m3u8?token=11b197c1
+#EXTINF:0,TV1000 Русское Кино HD
+http://s06.iptvx.tv/tv1000-russkoje-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Наше Мужское HD 
+http://s06.iptvx.tv/nashe-muzshkoe-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Мосфильм HD
+http://s06.iptvx.tv/mosfilm-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Любимое Кино
+http://s06.iptvx.tv/lubimoe-kino/video.m3u8?token=11b197c1
+#EXTINF:0,Родное кино
+http://s06.iptvx.tv/rodnoje_kino/video.m3u8?token=11b197c1
+#EXTINF:0,Победа HD
+http://s06.iptvx.tv/pobeda-hd/video.m3u8?token=11b197c1
+#EXTINF:0,День Победы HD
+http://s06.iptvx.tv/den-pobedy-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Наше новое кино HD
+http://s06.iptvx.tv/nashe-novoe-kino-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Ретро ТВ
+http://s06.iptvx.tv/retro/video.m3u8?token=11b197c1
+#EXTINF:0, Ностальгия
+http://s06.iptvx.tv/nostalgia/video.m3u8?token=11b197c1
+#EXTINF:0,Перец
+http://s06.iptvx.tv/perec/video.m3u8?token=11b197c1
+#EXTINF:0,Сарафан
+http://s06.iptvx.tv/sarafan/video.m3u8?token=11b197c1
+#EXTINF:0,Русский Иллюзион HD
+http://s06.iptvx.tv/russkij-iluzion-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Матч Премьер HD
+http://s06.iptvx.tv:8090/s/11b197c1/nash-futbol-hd.m3u8
+#EXTINF:0, Матч ТВ HD
+http://s06.iptvx.tv/match-tv-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Футбол 1 HD
+http://s06.iptvx.tv:8090/s/11b197c1/futbol1-ua-hd.m3u8
+#EXTINF:0,Футбол 2 HD
+http://s06.iptvx.tv:8090/s/11b197c1/futbol2-ua-hd.m3u8
+#EXTINF:0,Матч! Игра HD
+http://s06.iptvx.tv/match-igra-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Матч! Арена HD
+http://s06.iptvx.tv/match-arena-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Матч! Страна HD
+http://s06.iptvx.tv/match-nash-sport/video.m3u8?token=11b197c1
+#EXTINF:0,EUROSPORT 1 HD
+http://s06.iptvx.tv/eurosport-hd/video.m3u8?token=11b197c1
+#EXTINF:0,EUROSPORT 2 HD
+http://s06.iptvx.tv/eurosport2-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Super Tennis HD
+http://s06.iptvx.tv/super-tennis-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Animal Planet HD
+http://s06.iptvx.tv/animal-planet-hd/video.m3u8?token=11b197c1
+#EXTINF:0,В мире животных HD
+http://s06.iptvx.tv/animal-family-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Приключения HD
+http://s06.iptvx.tv/teletravel-hd/video.m3u8?token=11b197c1
+#EXTINF:0,RTG HD
+http://s06.iptvx.tv/rtg-hd/video.m3u8?token=11b197c1
+#EXTINF:0, Ocean-TV
+http://s06.iptvx.tv/ocean-tv/video.m3u8?token=11b197c1
+#EXTINF:0,Зоопарк
+http://s06.iptvx.tv/zoopark/video.m3u8?token=11b197c1
+#EXTINF:0, Рыболов
+http://s06.iptvx.tv/ohotnik-rybolov/video.m3u8?token=11b197c1
+#EXTINF:0, Охотник и рыболов HD
+http://s06.iptvx.tv/ohotnik-rybolov-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Дикая Рыбалка HD
+http://s06.iptvx.tv/dikaya-rybalka-hd/video.m3u8?token=11b197c1
+#EXTINF:0, Охота и рыбалка
+http://s06.iptvx.tv/oxota-rybalka/video.m3u8?token=11b197c1
+#EXTINF:0, Диалоги о Рыбалке
+http://s06.iptvx.tv/dialogi-rybalka/video.m3u8?token=11b197c1
+#EXTINF:0,Рыбалка HD
+http://s06.iptvx.tv/rybalka-hd-ua/video.m3u8?token=11b197c1
+#EXTINF:0,Трофей HD
+http://s06.iptvx.tv/trofey-hd/video.m3u8?token=11b197c1
+#EXTINF:0, Еда
+http://s06.iptvx.tv/eda/video.m3u8?token=11b197c1
+#EXTINF:0,Еда премиум
+http://s06.iptvx.tv/eda-hd/video.m3u8?token=11b197c1
+#EXTINF:0, Bridge TV Classic
+http://s06.iptvx.tv/bridge-classic/video.m3u8?token=11b197c1
+#EXTINF:0, Bridge TV Шлягер
+http://s06.iptvx.tv/bridge-tv-shlager/video.m3u8?token=11b197c1
+#EXTINF:0, MTV 90s
+http://s06.iptvx.tv/mtv-rocks/video.m3u8?token=11b197c1
+#EXTINF:0,MTV 80s
+http://s06.iptvx.tv/vh1-classic/video.m3u8?token=11b197c1
+#EXTINF:0,MTV 00s
+http://s06.iptvx.tv/vh1-europe/video.m3u8?token=11b197c1
+#EXTINF:0,Интер HD
+http://s06.iptvx.tv/inter-ua-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Україна HD
+http://s06.iptvx.tv/trk-ua-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Наш
+http://s06.iptvx.tv/kanal-nash/video.m3u8?token=11b197c1
+#EXTINF:0,НТН HD
+http://s06.iptvx.tv/ntn-ua-hd/video.m3u8?token=11b197c1
+#EXTINF:0,ЧП Info
+http://s06.iptvx.tv/chptv-ua/video.m3u8?token=11b197c1
+#EXTINF:0, ICTV HD
+http://s06.iptvx.tv/ictv-ua-hd/video.m3u8?token=11b197c1
+#EXTINF:0,1+1 HD
+http://s06.iptvx.tv/1-plus-1-hd/video.m3u8?token=11b197c1
+#EXTINF:0, 2+2 HD
+http://s06.iptvx.tv/2-plus-2-ua-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Уніан HD
+http://s06.iptvx.tv/unian-hd-ua/video.m3u8?token=11b197c1
+#EXTINF:0,СТБ HD
+http://s06.iptvx.tv/stb-ua-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Беларусь 1 HD
+http://s06.iptvx.tv/belarus1-by-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Беларусь 2 HD
+http://s06.iptvx.tv/belarus2-by-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Беларусь 3 HD
+http://s06.iptvx.tv/belarus3-by-hd/video.m3u8?token=11b197c1
+#EXTINF:0,Беларусь 5 HD
+http://s06.iptvx.tv/belarus5-by-hd/video.m3u8?token=11b197c1
